@@ -8,3 +8,8 @@
 	url = https://github.com/zijianni/sccb2
 	shallow = true
 	registered = true
+[submodule "SpotClean"]
+	path = SpotClean
+	url = https://github.com/zijianni/spotclean
+	shallow = true
+	registered = true
