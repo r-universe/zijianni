@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "scCB2"]
-	path = scCB2
-	url = https://github.com/zijianni/sccb2
 [submodule "SpotClean"]
 	path = SpotClean
 	url = https://github.com/zijianni/spotclean
+[submodule "scCB2"]
+	path = scCB2
+	url = https://github.com/zijianni/sccb2
